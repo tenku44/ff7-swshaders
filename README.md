@@ -1,6 +1,6 @@
 # FF7 Switch shaders
 
-![preview](file:/.pics/ss.jpg)
+![preview](.pics/ss.jpg)
 
 Plugin that runs OpenGL shaders over FINAL FANTASY VII on Nintendo Switch.
 
