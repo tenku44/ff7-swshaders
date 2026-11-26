@@ -20,7 +20,7 @@ NPDM_JSON := qlaunch.json
 
 # Additional C/C++ flags to use.
 C_FLAGS := 
-CXX_FLAGS := 
+CXX_FLAGS := -Wno-non-c-typedef-for-linkage -Wno-error=unused-variable -Wno-error=unused-function -fno-threadsafe-statics
 
 # AsRtld settings
 #------------------------
